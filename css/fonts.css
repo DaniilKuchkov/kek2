@@ -1,0 +1,19 @@
+@font-face {
+	font-family: 'Zurich BT';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Zurich BT'), url('../fonts/ZURCHN.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'KlavikaMedium-TF';
+	font-style: normal;
+	font-weight: normal;
+	src: local('KlavikaMedium-TF'), url('../fonts/KlavikaMedium-TF.woff') format('woff');
+}
+@font-face {
+	font-family: 'Myriad Pro';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Myriad Pro'), url('../fonts/MyriadPro.otf.woff') format('otf');
+}
